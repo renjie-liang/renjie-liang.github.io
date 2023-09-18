@@ -21,12 +21,14 @@ redirect_from:
 Hi! I'm currently a master student from **National University of Singapore (NUS)**. Meanwhile, I'm a research intern of the [NExT Research Center](https://www.nextcenter.org/) in the school of computing working with Prof. Tat-Seng Chua. Before that, I obtained my Bachelor in Software Engineering from the **TongJi University**, Shanghai, China in 2022. My research interests focuses on software engineering (neural code search) and artificial intelligence (multimodal understanding).
 
 # 🔥 Work Experiences
-- Research Intern, School of Software Engineering, TongJi University.            -08/2020-06/2022
+- Research Intern, School of Software Engineering, TongJi University.            08/2020-06/2022
 - Prof. Yan Liu
+
 Mainly focus on neural code search and neural code completion.
 
-- Research Intern, NUS Centre for Extreme Search (NExT++), NUS.            -08/2020-06/2022
+- Research Intern, NUS Centre for Extreme Search (NExT++), NUS.            08/2020-06/2022
 - Prof. Tat-Seng Chua
+
 Mainly focus on multimodal fusion and understanding.
 
 
@@ -72,7 +74,7 @@ Mainly focus on multimodal fusion and understanding.
 
   Ao Zhang, Hao Fei, Yuan Yao, Wei Ji, **Li Li**, Zhiyuan Liu, Tat-Seng Chua
 
-  **Submitted to NeuriPS 2023**
+  **Submitted to NeurIPS 2023**
 
 - **Towards Complex-query Referring Image Segmentation: A Novel Benchmark**
 
