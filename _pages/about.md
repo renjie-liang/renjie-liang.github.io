@@ -25,7 +25,7 @@ Research Intern, School of Software Engineering, TongJi University.
 
 <div style="text-align: right;">
 08/2020-06/2022
-
+<br/>
 Prof. Yan Liu
 </div>
 
@@ -39,7 +39,7 @@ Research Intern, NUS Centre for Extreme Search (NExT++), NUS.
          
 <div style="text-align: right;">
 06/2022-present
-
+<br/>
 Prof. Tat-Seng Chua
 </div>
 
