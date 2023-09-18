@@ -50,13 +50,13 @@ Mainly focus on multimodal fusion and understanding.
 
 - **On the Importance of Building High-quality Training Datasets for Neural Code Search**
 
-  Zhensu Sun, **Li Li**, Yan Liu, Xiaoning Du, and Li Li
+  Zhensu Sun, **Li Li**, Yan Liu, Xiaoning Du, Li Li
 
   **ICSE 2022, Nominated for distinguished paper**
 
 - **Biased-Predicate Annotation Identification via Unbiased Visual Predicate Representation**
 
-  **Li Li**, Chenwei Wang, You Qin, Wei Ji, and Renjie Liang
+  **Li Li**, Chenwei Wang, You Qin, Wei Ji, Renjie Liang
 
   **ACM MM 2023, Accepted with full marks**
 
