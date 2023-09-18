@@ -15,44 +15,89 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# 💡 About Me
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi! I'm currently a master student from **National University of Singapore (NUS)**. Meanwhile, I'm a research intern of the [NExT Research Center](https://www.nextcenter.org/) in the school of computing working with Prof. Tat-Seng Chua. Before that, I obtained my Bachelor in Software Engineering from the **TongJi University**, Shanghai, China in 2022. My research interests focuses on software engineering (neural code search) and artificial intelligence (multimodal understanding).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# 🔥 Work Experiences
+- Research Intern, School of Software Engineering, TongJi University.            -08/2020-06/2022
+- Prof. Yan Liu
+Mainly focus on neural code search and neural code completion.
 
+- Research Intern, NUS Centre for Extreme Search (NExT++), NUS.            -08/2020-06/2022
+- Prof. Tat-Seng Chua
+Mainly focus on multimodal fusion and understanding.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **On the Importance of Building High-quality Training Datasets for Neural Code Search**
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+  Abstract: *Extracted code snippets & comments from open-source sites (e.g., Stack Overflow, GitHub).
+  Introduced a 2-step framework: rule-based & model-based filtering. Rule-based step applies heuristics to find abnormal syntax. Model-based step uses Variational Auto-Encoder to detect semantic outliers. Experiments show our framework boosts code search model performance with 50% data reduction.*
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+  Zhensu Sun, **Li Li**, Yan Liu, Xiaoning Du, and Li Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+  **ICSE 2022, Nominated for distinguished paper**
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Biased-Predicate Annotation Identification via Unbiased Visual Predicate Representation**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  Abstract: *Introduce a novel perspective and an approach for scene graph generation and panoptic scene graph generation methods debiasing. The proposed method aims to learn unbiased visual representation for accurate biased-annotation identification. Experimental results demonstrate that the proposed method significantly enhances the performance of benchmark models on the PSG\VG dataset,
+  achieving a new state-of-the-art performance.*
+
+  **Li Li**, Chenwei Wang, You Qin, Wei Ji, and Renjie Liang
+
+  **ACM MM 2023, Accepted with full marks**
+
+- **Panoptic Scene Graph Generation with Semantics-prototype Learning**
+
+  Abstract: *We propose a novel framework named ADTrans to adaptively transfer biased predicate annotations to informative and unified ones. To promise consistency and accuracy during the transfer process, we propose to observe the invariance degree of representations in each predicate class, and learn unbiased prototypes of predicates with different intensities. Meanwhile, we continuously measure the distribution changes between each presentation and its prototype, and constantly screen potentially biased data. Finally, with the unbiased predicate-prototype representation embedding space, biased annotations are easily identified.Experiments show that ADTrans significantly improves the performance of benchmark models, achieving a new state-of-the-art performance, and shows great generalization and effectiveness on multiple datasets.*
+
+  **Li Li**, Wei Ji, Yiming Wu, Mengze Li, You Qin, Lina Wei, Roger Zimmermann
+
+  **Submitted to AAAI 2024**
+
+- **Domain-wise Invariant Learning for Panoptic Scene Graph Generation**
+
+  Abstract: *To address the intrinsic bias in Panoptic Scene Graph Generation, we propose a novel framework to infer potentially biased annotations by measuring the predicate prediction risks within each subject-object pair (domain), and adaptively transfer the biased annotations to consistent ones by learning invariant predicate representation embeddings. Experiments show that our method significantly improves the performance of benchmark models, achieving a new state-of-the-art performance, and shows great generalization and effectiveness on PSG dataset.*
+
+  **Li Li**, You Qin, Wei Ji, Yuxiao Zhou, Roger Zimmermann
+
+  **Submitted to ICASSP 2024**
+
+- **Transfer Visual Prompt Generator across LLMs**
+
+  Abstract: *Investigate the visual prompt generator transferability across LLMs. Design an effective two-stage transfer framework to speed up the learning process. The design framework achieves over 10 times speed-up and 10.7% training data compared with connecting a visual prompt generator to BLIP-2 OPT from scratch. With our framework, one can build a novel high-performance vision-language LLM at affordably lower cost.*
+
+  Ao Zhang, Hao Fei, Yuan Yao, Wei Ji, **Li Li**, Zhiyuan Liu, Tat-Seng Chua
+
+  **Submitted to NeuriPS 2023**
+
+- **Towards Complex-query Referring Image Segmentation: A Novel Benchmark**
+
+  Abstract: *We highlight the significant of semantic understanding capability of large pre-trained models. Thus, we propose a novel benchmark which contains enriched specific and informative queries, and more realistic scenarios. Meanwhile, we also propose a baseline method using dual-modality graph alignment to better task the benchmark.*
+
+  Wei Ji, **Li Li**, Hao Fei, Xiangyan Liu, Juncheng Li, Roger Zimmermann
+
+  **Submitted to ICLR 2024**
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+  <div class='school-box'>
+  2022.08 - now
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+  Master of Science in Industry 4.0
+
+  **National University of Singapore**, Singapore
+
+  </div>
+
+  <div class='school-box'>
+  2018.08 - 2022.06
+
+  Bachelor of Engineering in Software Engineering
+
+  **TongJi University**, Shanghai
+
+  </div>
