@@ -26,7 +26,7 @@ Hi! I'm currently a master student from **National University of Singapore (NUS)
 
 Mainly focus on neural code search and neural code completion.
 
-- Research Intern, NUS Centre for Extreme Search (NExT++), NUS.            08/2020-06/2022
+- Research Intern, NUS Centre for Extreme Search (NExT++), NUS.            06/2022-present
 - Prof. Tat-Seng Chua
 
 Mainly focus on multimodal fusion and understanding.
