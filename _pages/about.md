@@ -33,6 +33,8 @@ Prof. Yan Liu
 
 Mainly focus on neural code search and neural code completion.
 
+---
+
 Research Intern, NUS Centre for Extreme Search (NExT++), NUS.  
          
 <div style="text-align: right;">
