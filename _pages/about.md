@@ -91,7 +91,7 @@ Mainly focus on multimodal fusion and understanding.
 
   Master of Science in Industry 4.0
 
-  **National University of Singapore**, Singapore
+  National University of Singapore, Singapore
 
   </div>
 
@@ -100,6 +100,6 @@ Mainly focus on multimodal fusion and understanding.
 
   Bachelor of Engineering in Software Engineering
 
-  **TongJi University**, Shanghai
+  TongJi University, Shanghai
 
   </div>
