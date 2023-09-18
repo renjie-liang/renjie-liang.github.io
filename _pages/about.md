@@ -29,9 +29,7 @@ Research Intern, School of Software Engineering, TongJi University.
 Prof. Yan Liu
 </div>
 
-<div style="text-align: right;">
 
-</div>
 
 Mainly focus on neural code search and neural code completion.
 
@@ -39,11 +37,11 @@ Research Intern, NUS Centre for Extreme Search (NExT++), NUS.
          
 <div style="text-align: right;">
 06/2022-present
-</div>
 
-<div style="text-align: right;">
 Prof. Tat-Seng Chua
 </div>
+
+
 
 Mainly focus on multimodal fusion and understanding.
 
