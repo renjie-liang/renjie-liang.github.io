@@ -22,12 +22,12 @@ Hi! I'm currently a master student from **National University of Singapore (NUS)
 
 # 🔥 Work Experiences
 - Research Intern, School of Software Engineering, TongJi University.            08/2020-06/2022
-- Prof. Yan Liu
+Prof. Yan Liu
 
 Mainly focus on neural code search and neural code completion.
 
 - Research Intern, NUS Centre for Extreme Search (NExT++), NUS.            06/2022-present
-- Prof. Tat-Seng Chua
+Prof. Tat-Seng Chua
 
 Mainly focus on multimodal fusion and understanding.
 
