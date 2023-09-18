@@ -84,6 +84,12 @@ Mainly focus on multimodal fusion and understanding.
 
   **Submitted to ICLR 2024**
 
+- **Efficient temporal sentence grounding in videos with multi-teacher knowledge distillation**
+
+  Renjie Liang, Yiming Yang, Hui Lu, **Li Li**
+
+  **Arxiv 2023**
+
 # 📖 Educations
 
   <div class='school-box'>
