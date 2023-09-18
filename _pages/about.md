@@ -25,10 +25,12 @@ Research Intern, School of Software Engineering, TongJi University.
 
 <div style="text-align: right;">
 08/2020-06/2022
+
+Prof. Yan Liu
 </div>
 
 <div style="text-align: right;">
-Prof. Yan Liu
+
 </div>
 
 Mainly focus on neural code search and neural code completion.
