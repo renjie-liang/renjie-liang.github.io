@@ -46,7 +46,7 @@ Prof. Tat-Seng Chua
 Mainly focus on multimodal fusion and understanding.
 
 
-# 📝 Publications SSSSSSS
+# 📝 Publications
 
 - **On the Importance of Building High-quality Training Datasets for Neural Code Search**
 
