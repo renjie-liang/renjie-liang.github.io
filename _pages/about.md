@@ -92,20 +92,20 @@ Mainly focus on multimodal fusion and understanding.
 
 # 📖 Educations
 
-  <div class='school-box'>
+
   2022.08 - now
 
   Master of Science in Industry 4.0
 
   National University of Singapore, Singapore
 
-  </div>
 
-  <div class='school-box'>
+  ---
+  
   2018.08 - 2022.06
 
   Bachelor of Engineering in Software Engineering
 
   TongJi University, Shanghai
 
-  </div>
+
