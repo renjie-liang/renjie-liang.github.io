@@ -86,11 +86,11 @@ Mainly focus on multimodal fusion and understanding.
 
   **Submitted to ICLR 2024**
 
-- **Cloud-device Collaborative Learning for Multimodal Retrieval **
+- **Cloud-device Collaborative Learning for Multimodal Retrieval**
 
-  Wei Ji*, **Li Li\***, Hao Fei, Xiangyan Liu, Juncheng Li, Roger Zimmermann
+  Wei Ji*, **Li Li\*(equal contribution)**, Hao Fei, Xiangyan Liu, Juncheng Li, Roger Zimmermann
 
-  **On going work, will Submit to WWW 2024, equal contribution**
+  **On going work, will Submit to WWW 2024**
   
 
 - **Efficient temporal sentence grounding in videos with multi-teacher knowledge distillation**
