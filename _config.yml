@@ -27,7 +27,7 @@ author:
   location         : "Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=r4kIL4cAAAAJ&hl"
   email            : "lili02@u.nus.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : 
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0003-2007-2706"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
