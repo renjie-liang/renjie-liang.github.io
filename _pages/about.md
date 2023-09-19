@@ -74,12 +74,6 @@ Mainly focus on multimodal fusion and understanding.
 
   **Submitted to ICASSP 2024**
 
-- **Transfer Visual Prompt Generator across LLMs**
-
-  Ao Zhang, Hao Fei, Yuan Yao, Wei Ji, **Li Li**, Zhiyuan Liu, Tat-Seng Chua
-
-  **Submitted to NeurIPS 2023**
-
 - **Towards Complex-query Referring Image Segmentation: A Novel Benchmark**
 
   Wei Ji, **Li Li**, Hao Fei, Xiangyan Liu, Juncheng Li, Roger Zimmermann
@@ -91,6 +85,12 @@ Mainly focus on multimodal fusion and understanding.
   Wei Ji*, **Li Li\*(equal contribution)**, Zheqi Lv, Roger Zimmermann
 
   **On going work, will Submit to WWW 2024**
+
+- **Transfer Visual Prompt Generator across LLMs**
+
+  Ao Zhang, Hao Fei, Yuan Yao, Wei Ji, **Li Li**, Zhiyuan Liu, Tat-Seng Chua
+
+  **Submitted to NeurIPS 2023**
   
 
 - **Efficient temporal sentence grounding in videos with multi-teacher knowledge distillation**
