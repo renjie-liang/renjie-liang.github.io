@@ -84,7 +84,7 @@ Mainly focus on multimodal fusion and understanding.
 
   Wei Ji*, **Li Li\*(equal contribution)**, Zheqi Lv, Roger Zimmermann
 
-  **On going work, will Submit to WWW 2024**
+  **On going work, will submit to WWW 2024**
 
 - **Transfer Visual Prompt Generator across LLMs**
 
