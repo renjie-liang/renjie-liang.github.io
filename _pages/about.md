@@ -58,7 +58,7 @@ Mainly focus on multimodal fusion and understanding.
 
 - **Biased-Predicate Annotation Identification via Unbiased Visual Predicate Representation**
 
-  **Li Li**, Chenwei Wang, You Qin, Wei Ji, Renjie Liang
+  **Li Li\***, Chenwei Wang*, You Qin, Wei Ji, Renjie Liang
 
   **ACM MM 2023, Accepted with full marks**
 
