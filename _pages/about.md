@@ -62,6 +62,12 @@ Mainly focus on multimodal fusion and understanding.
 
   **ACM MM 2023, Accepted with full marks**
 
+- **Transfer Visual Prompt Generator across LLMs**
+
+  Ao Zhang, Hao Fei, Yuan Yao, Wei Ji, **Li Li**, Zhiyuan Liu, Tat-Seng Chua
+
+  **NeurIPS 2023**
+
 - **Panoptic Scene Graph Generation with Semantics-prototype Learning**
 
   **Li Li**, Wei Ji, Yiming Wu, Mengze Li, You Qin, Lina Wei, Roger Zimmermann
@@ -85,13 +91,6 @@ Mainly focus on multimodal fusion and understanding.
   Wei Ji*, **Li Li\*(equal contribution)**, Zheqi Lv, Roger Zimmermann
 
   **On going work, will submit to WWW 2024**
-
-- **Transfer Visual Prompt Generator across LLMs**
-
-  Ao Zhang, Hao Fei, Yuan Yao, Wei Ji, **Li Li**, Zhiyuan Liu, Tat-Seng Chua
-
-  **Submitted to NeurIPS 2023**
-  
 
 - **Efficient temporal sentence grounding in videos with multi-teacher knowledge distillation**
 
