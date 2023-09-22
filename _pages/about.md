@@ -92,7 +92,7 @@ Mainly focus on multimodal fusion and understanding.
 
   **On going work, will submit to WWW 2024**
 
-- **Efficient temporal sentence grounding in videos with multi-teacher knowledge distillation**
+- **Efficient Temporal Sentence Grounding in Videos with Multi-teacher Knowledge Distillation**
 
   Renjie Liang, Yiming Yang, Hui Lu, **Li Li**
 
