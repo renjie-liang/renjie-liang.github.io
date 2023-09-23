@@ -60,7 +60,7 @@ Mainly focus on multimodal fusion and understanding.
 
   **Li Li\***, Chenwei Wang*, You Qin, Wei Ji, Renjie Liang
 
-  **ACM MM 2023, Accepted with full marks**
+  **ACM MM 2023, Accepted with full marks, waiting for oral/best paper candidate decision.**
 
 - **Transfer Visual Prompt Generator across LLMs**
 
