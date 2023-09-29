@@ -82,7 +82,7 @@ Mainly focus on multimodal fusion and understanding.
 
 - **Towards Complex-query Referring Image Segmentation: A Novel Benchmark**
 
-  Wei Ji, **Li Li**, Hao Fei, Xiangyan Liu, Juncheng Li, Roger Zimmermann
+  Wei Ji, **Li Li**, Hao Fei, Xiangyan Liu, Xun Yang, Juncheng Li, Roger Zimmermann
 
   **Submitted to ICLR 2024**
 
