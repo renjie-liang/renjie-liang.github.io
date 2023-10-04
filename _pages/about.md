@@ -90,7 +90,7 @@ Mainly focus on multimodal fusion and understanding.
 
   Wei Ji*, **Li Li\*(equal contribution)**, Zheqi Lv, Zhen Wan, Roger Zimmermann
 
-  **On going work, will submit to WWW 2024**
+  **Submitted to ACM Web Conference 2024**
 
 - **Efficient Temporal Sentence Grounding in Videos with Multi-teacher Knowledge Distillation**
 
