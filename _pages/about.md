@@ -88,7 +88,7 @@ Mainly focus on multimodal fusion and understanding.
 
 - **Cloud-device Collaborative Learning for Multimodal Retrieval**
 
-  Wei Ji*, **Li Li\*(equal contribution)**, Zheqi Lv, Zhen Wan, Roger Zimmermann
+  Wei Ji*, **Li Li\*(equal contribution)**, Zheqi Lv, Wenqiao Zhang, Zhen Wan, Roger Zimmermann
 
   **Submitted to ACM Web Conference 2024**
 
