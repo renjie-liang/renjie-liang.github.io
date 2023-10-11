@@ -86,7 +86,7 @@ Mainly focus on multimodal fusion and understanding.
 
   **Submitted to ICLR 2024**
 
-- **Cloud-device Collaborative Learning for Multimodal Retrieval**
+- **Backpropogation-Free On-Device Multi-Modal Model Adaptation via Cloud-Device Collaboration**
 
   Wei Ji*, **Li Li\*(equal contribution)**, Zheqi Lv, Wenqiao Zhang, Zhen Wan, Roger Zimmermann
 
