@@ -60,7 +60,7 @@ Mainly focus on multimodal fusion and understanding.
 
   **Li Li\***, Chenwei Wang*, You Qin, Wei Ji, Renjie Liang
 
-  **ACM MM 2023, Accepted with full marks, waiting for oral/best paper candidate decision.**
+  **ACM MM 2023, Accepted with full marks.**
 
 - **Transfer Visual Prompt Generator across LLMs**
 
@@ -88,7 +88,7 @@ Mainly focus on multimodal fusion and understanding.
 
 - **Backpropogation-Free On-Device Multi-Modal Model Adaptation via Cloud-Device Collaboration**
 
-  Wei Ji*, **Li Li\*(equal contribution)**, Zheqi Lv, Wenqiao Zhang, Zhen Wan, Roger Zimmermann
+  Wei Ji*, **Li Li\***, Zheqi Lv, Wenqiao Zhang, Zhen Wan, Roger Zimmermann
 
   **Submitted to ACM Web Conference 2024**
 
