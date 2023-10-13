@@ -88,7 +88,7 @@ Mainly focus on multimodal fusion and understanding.
 
 - **Backpropogation-Free On-Device Multi-Modal Model Adaptation via Cloud-Device Collaboration**
 
-  Wei Ji*, **Li Li\***, Zheqi Lv, Wenqiao Zhang, Zhen Wan, Roger Zimmermann
+  Wei Ji*, **Li Li\***, Zheqi Lv, Wenqiao Zhang, Mengze Li, Zhen Wan, Wenqiang Lei, Roger Zimmermann
 
   **Submitted to ACM Web Conference 2024**
 
