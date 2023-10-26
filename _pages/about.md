@@ -86,11 +86,6 @@ Mainly focus on multimodal fusion and understanding.
 
   **Submitted to ACM Web Conference 2024**
 
-- **Efficient Temporal Sentence Grounding in Videos with Multi-teacher Knowledge Distillation**
-
-  Renjie Liang, Yiming Yang, Hui Lu, **Li Li**
-
-  **Arxiv 2023**
 
 # 📖 Educations
 
