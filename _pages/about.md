@@ -48,7 +48,7 @@ Prof. Tat-Seng Chua
 Mainly focus on multimodal fusion and understanding.
 
 
-# 📝 Publications
+# 📝 Selected Publications (please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL4cAAAAJ&hl=zh-CN) page to check all my publications)
 
 - **On the Importance of Building High-quality Training Datasets for Neural Code Search**
 
@@ -73,12 +73,6 @@ Mainly focus on multimodal fusion and understanding.
   **Li Li**, Wei Ji, Yiming Wu, Mengze Li, You Qin, Lina Wei, Roger Zimmermann
 
   **Submitted to AAAI 2024**
-
-- **Domain-wise Invariant Learning for Panoptic Scene Graph Generation**
-
-  **Li Li**, You Qin, Wei Ji, Yuxiao Zhou, Roger Zimmermann
-
-  **Submitted to ICASSP 2024**
 
 - **Towards Complex-query Referring Image Segmentation: A Novel Benchmark**
 
