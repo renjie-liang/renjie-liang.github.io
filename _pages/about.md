@@ -76,11 +76,11 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 
   **Submitted to AAAI 2024**
 
-- **Towards Complex-query Referring Image Segmentation: A Novel Benchmark**
+- **StableSynthNet: Revolutionizing HyperNetworks for Enhanced Multi-modal Model Generalization**
 
-  Wei Ji, **Li Li**, Hao Fei, Xiangyan Liu, Xun Yang, Juncheng Li, Roger Zimmermann
+  Wei Ji\*, **Li Li\***, Zheqi Lv, Wenqiao Zhang, Yifang Yin, Fei Wu, Roger Zimmermann
 
-  **Submitted to ICLR 2024**
+  **Submitted to CVPR 2024**
 
 - **Backpropogation-Free On-Device Multi-Modal Model Adaptation via Cloud-Device Collaboration**
 
