@@ -76,6 +76,10 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 
   **Submitted to AAAI 2024**
 
+- **Domain-wise Invariant Learning for Panoptic Scene Graph Generation**
+  **Li Li**, You Qin, Wei Ji, Yuxiao Zhou, Roger Zimmermann
+  **Submitted to ICASSP 2024.**
+
 - **StableSynthNet: Revolutionizing HyperNetworks for Enhanced Multi-modal Model Generalization**
 
   Wei Ji\*, **Li Li\***, Zheqi Lv, Wenqiao Zhang, Yifang Yin, Fei Wu, Roger Zimmermann
