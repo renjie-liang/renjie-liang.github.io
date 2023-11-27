@@ -80,7 +80,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 
   **Li Li**, You Qin, Wei Ji, Yuxiao Zhou, Roger Zimmermann
   
-  **Submitted to ICASSP 2024.**
+  **Submitted to ICASSP 2024**
 
 - **StableSynthNet: Revolutionizing HyperNetworks for Enhanced Multi-modal Model Generalization**
 
