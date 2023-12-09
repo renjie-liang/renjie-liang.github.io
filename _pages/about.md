@@ -74,7 +74,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 
   **Li Li**, Wei Ji, Yiming Wu, Mengze Li, You Qin, Lina Wei, Roger Zimmermann
 
-  **Submitted to AAAI 2024**
+  **AAAI 2024**
 
 - **Domain-wise Invariant Learning for Panoptic Scene Graph Generation**
 
