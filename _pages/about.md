@@ -88,11 +88,11 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 
   **Submitted to CVPR 2024**
 
-- **Backpropogation-Free On-Device Multi-Modal Model Adaptation via Cloud-Device Collaboration**
+<!-- - **Backpropogation-Free On-Device Multi-Modal Model Adaptation via Cloud-Device Collaboration**
 
   Wei Ji*, **Li Li\***, Zheqi Lv, Wenqiao Zhang, Mengze Li, Zhen Wan, Wenqiang Lei, Roger Zimmermann
 
-  **Submitted to ACM Web Conference 2024**
+  **Submitted to ACM Web Conference 2024** -->
 
 
 # 📖 Educations
