@@ -94,6 +94,8 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 
   **Submitted to ACM Web Conference 2024** -->
 
+# 🥇 Honors and Awards
+AAAI-2024 Student Scholarship.
 
 # 📖 Educations
 
