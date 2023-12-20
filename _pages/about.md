@@ -21,6 +21,7 @@ redirect_from:
 Hi! I'm currently a master student from **National University of Singapore (NUS)**. Meanwhile, I'm a research intern of the [NExT Research Center](https://www.nextcenter.org/) in the school of computing working with Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao) and Prof. [Roger Zimmermann](https://scholar.google.com/citations?user=IDREwXEAAAAJ&hl=zh-CN&oi=ao). Before that, I obtained my Bachelor in Software Engineering from the **TongJi University**, Shanghai, China in 2022. My research interests focuses on software engineering (LLM for code) and artificial intelligence (multimodal understanding).
 
 # 💼 Work Experiences
+<span class='anchor' id='work-experiences'></span>
 Research Intern, School of Software Engineering, TongJi University.      
 
 <div style="text-align: right;">
