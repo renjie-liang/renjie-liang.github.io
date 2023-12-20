@@ -48,7 +48,7 @@ Prof. Tat-Seng Chua
 Mainly focus on multimodal fusion and understanding.
 
 
-# 📝 Selected Publications
+# 📝 Publications
 
 please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL4cAAAAJ&hl=zh-CN) page to check all my publications
 
