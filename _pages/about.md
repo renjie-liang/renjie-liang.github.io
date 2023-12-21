@@ -63,7 +63,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 
   **Li Li\***, Chenwei Wang*, You Qin, Wei Ji, Renjie Liang
 
-  **ACM MM 2023, Accepted with full marks.**
+  **ACM MM 2023, Accepted with full marks**
 
 - **Transfer Visual Prompt Generator across LLMs**
 
