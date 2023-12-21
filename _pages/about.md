@@ -61,7 +61,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 
 - **Biased-Predicate Annotation Identification via Unbiased Visual Predicate Representation**
 
-  **Li Li\***, Chenwei Wang*, You Qin, Wei Ji, Renjie Liang
+  <span style="border-bottom:2px dashed black;">**Li Li**</span>\*, Chenwei Wang*, You Qin, Wei Ji, Renjie Liang
 
   **ACM MM 2023, Accepted with full marks**
 
