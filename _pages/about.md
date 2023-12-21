@@ -55,7 +55,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 
 - **On the Importance of Building High-quality Training Datasets for Neural Code Search**
 
-  Zhensu Sun, <u>**Li Li**</u>, Yan Liu, Xiaoning Du, Li Li
+  Zhensu Sun, <span style="border-bottom:2px dashed black;">**Li Li**</span>, Yan Liu, Xiaoning Du, Li Li
 
   **ICSE 2022, Nominated for distinguished paper**
 
