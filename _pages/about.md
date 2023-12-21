@@ -55,37 +55,37 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 
 - **On the Importance of Building High-quality Training Datasets for Neural Code Search**
 
-  Zhensu Sun, <span style="border-bottom:2px dashed black;">**Li Li**</span>, Yan Liu, Xiaoning Du, Li Li
+  Zhensu Sun, <span style="border-bottom:2px thick double black;">**Li Li**</span>, Yan Liu, Xiaoning Du, Li Li
 
   **ICSE 2022, Nominated for distinguished paper**
 
 - **Biased-Predicate Annotation Identification via Unbiased Visual Predicate Representation**
 
-  <span style="border-bottom:2px dashed black;">**Li Li**</span>\*, Chenwei Wang*, You Qin, Wei Ji, Renjie Liang
+  <span style="border-bottom:2px thick double black;">**Li Li**</span>\*, Chenwei Wang*, You Qin, Wei Ji, Renjie Liang
 
   **ACM MM 2023, Accepted with full marks**
 
 - **Transfer Visual Prompt Generator across LLMs**
 
-  Ao Zhang, Hao Fei, Yuan Yao, Wei Ji, **Li Li**, Zhiyuan Liu, Tat-Seng Chua
+  Ao Zhang, Hao Fei, Yuan Yao, Wei Ji, <span style="border-bottom:2px thick double black;">**Li Li**</span>, Zhiyuan Liu, Tat-Seng Chua
 
   **NeurIPS 2023**
 
 - **Panoptic Scene Graph Generation with Semantics-prototype Learning**
 
-  **Li Li**, Wei Ji, Yiming Wu, Mengze Li, You Qin, Lina Wei, Roger Zimmermann
+  <span style="border-bottom:2px thick double black;">**Li Li**</span>, Wei Ji, Yiming Wu, Mengze Li, You Qin, Lina Wei, Roger Zimmermann
 
   **AAAI 2024**
 
 - **Domain-wise Invariant Learning for Panoptic Scene Graph Generation**
 
-  **Li Li**, You Qin, Wei Ji, Yuxiao Zhou, Roger Zimmermann
+  <span style="border-bottom:2px thick double black;">**Li Li**</span>, You Qin, Wei Ji, Yuxiao Zhou, Roger Zimmermann
   
   **ICASSP 2024**
 
 - **StableSynthNet: Revolutionizing HyperNetworks for Enhanced Multi-modal Model Generalization**
 
-  Wei Ji\*, **Li Li\***, Zheqi Lv, Wenqiao Zhang, Yifang Yin, Fei Wu, Roger Zimmermann
+  Wei Ji\*, <span style="border-bottom:2px thick double black;">**Li Li**</span>\*, Zheqi Lv, Wenqiao Zhang, Yifang Yin, Fei Wu, Roger Zimmermann
 
   **Submitted to CVPR 2024**
 
