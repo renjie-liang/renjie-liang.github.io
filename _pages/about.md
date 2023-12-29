@@ -91,7 +91,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 
 - **Towards Complex-query Referring Image Segmentation: A Novel Benchmark**
 
-  Wei Ji, **Li Li**, Hao Fei, Xiangyan Liu, Xun Yang, Juncheng Li, Roger Zimmermann
+  Wei Ji, <span style="border-bottom:2px solid black;">**Li Li**</span>, Hao Fei, Xiangyan Liu, Xun Yang, Juncheng Li, Roger Zimmermann
 
   **Submitted to IEEE T-MM**
 
