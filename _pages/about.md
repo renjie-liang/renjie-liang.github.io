@@ -89,6 +89,12 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 
   **Submitted to CVPR 2024**
 
+- **Towards Complex-query Referring Image Segmentation: A Novel Benchmark**
+
+  Wei Ji, **Li Li**, Hao Fei, Xiangyan Liu, Xun Yang, Juncheng Li, Roger Zimmermann
+
+  **Submitted to IEEE T-MM**
+
 <!-- - **Backpropogation-Free On-Device Multi-Modal Model Adaptation via Cloud-Device Collaboration**
 
   Wei Ji*, **Li Li\***, Zheqi Lv, Wenqiao Zhang, Mengze Li, Zhen Wan, Wenqiang Lei, Roger Zimmermann
