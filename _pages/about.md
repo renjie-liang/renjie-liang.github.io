@@ -88,6 +88,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
   Wei Ji\*, <span style="border-bottom:2px solid black;">**Li Li**</span>\*, Zheqi Lv, Wenqiao Zhang, Yifang Yin, Fei Wu, Roger Zimmermann
 
   **Submitted to CVPR 2024**
+
 <!-- 
 - **Towards Complex-query Referring Image Segmentation: A Novel Benchmark**
 
