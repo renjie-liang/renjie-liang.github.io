@@ -50,16 +50,9 @@ Mainly focus on multimodal fusion and understanding.
 
 ---
 
+Incoming Research Associate, NTU S-Lab, NTU.  
          
-<div style="text-align: right;">
-06/2022-present
-<br/>
-Prof. Tat-Seng Chua
-</div>
 
-
-
-Mainly focus on multimodal fusion and understanding.
 
 
 # 📝 Publications
