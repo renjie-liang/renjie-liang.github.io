@@ -88,11 +88,11 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
   
   **ICASSP 2024**
 
-- **StableSynthNet: Revolutionizing HyperNetworks for Enhanced Multi-modal Model Generalization**
+<!-- - **StableSynthNet: Revolutionizing HyperNetworks for Enhanced Multi-modal Model Generalization**
 
   Wei Ji\*, <span style="border-bottom:2px solid black;">**Li Li**</span>\*, Zheqi Lv, Wenqiao Zhang, Yifang Yin, Fei Wu, Roger Zimmermann
 
-  **Submitted to CVPR 2024**
+  **Submitted to CVPR 2024** -->
 
 <!-- 
 - **Towards Complex-query Referring Image Segmentation: A Novel Benchmark**
