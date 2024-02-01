@@ -15,12 +15,12 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# 💡 About Me
+# About Me
 <span class='anchor' id='about-me'></span>
 
 Hi! I'm currently a master student from **National University of Singapore (NUS)**. Meanwhile, I'm a research intern of the [NExT Research Center](https://www.nextcenter.org/) in the school of computing working with Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao) and Prof. [Roger Zimmermann](https://scholar.google.com/citations?user=IDREwXEAAAAJ&hl=zh-CN&oi=ao). Before that, I obtained my Bachelor in Software Engineering from the **TongJi University**, Shanghai, China in 2022. My research interests focuses on software engineering (LLM for code) and artificial intelligence (multimodal understanding).
 
-# 💼 Work Experiences
+# Work Experiences
 <span class='anchor' id='work-experiences'></span>
 Research Intern, School of Software Engineering, TongJi University.      
 
@@ -54,7 +54,7 @@ Incoming Research Associate, NTU S-Lab, NTU.
          
 
 
-# 📝 Publications
+# Publications
 
 please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL4cAAAAJ&hl=zh-CN) page to check all my publications
 
@@ -107,12 +107,15 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 
   **Submitted to ACM Web Conference 2024** -->
 
-# 🥇 Honors and Awards
+# Honors and Awards
 ICSE 2022 Distinguished Paper Award Nomination.
 
 AAAI 2024 Student Scholarship.
 
-# 📖 Educations
+# Services
+ACM MM 2024 Program Committee Member
+
+# Educations
 
 
   2022.08 - now
