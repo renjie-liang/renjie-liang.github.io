@@ -62,7 +62,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 
   Zhensu Sun, <span style="border-bottom:2px solid black;">**Li Li**</span>, Yan Liu, Xiaoning Du, Li Li
 
-  **ICSE 2022, Nominated for distinguished paper**
+  **ICSE 2022, Nominated for distinguished paper award**
 
 - **Biased-Predicate Annotation Identification via Unbiased Visual Predicate Representation**
 
