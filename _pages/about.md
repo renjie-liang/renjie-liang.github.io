@@ -113,7 +113,8 @@ ICSE 2022 Distinguished Paper Award Nomination.
 AAAI 2024 Student Scholarship.
 
 # Services
-ACM MM 2024 Program Committee Member。
+ACM MM 2024 Program Committee Member.
+
 ECCV 2024 Program Committee Member.
 
 # Educations
