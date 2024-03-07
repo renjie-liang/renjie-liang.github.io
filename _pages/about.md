@@ -39,7 +39,7 @@ Mainly focus on neural code search and neural code completion.
 Research Intern, NUS Centre for Extreme Search (NExT++), NUS.  
          
 <div style="text-align: right;">
-06/2022-present
+06/2022-02/2024
 <br/>
 Prof. Tat-Seng Chua
 </div>
@@ -50,7 +50,17 @@ Mainly focus on multimodal fusion and understanding.
 
 ---
 
-Incoming Research Associate, NTU S-Lab, NTU.  
+Research Associate, S-Lab, NTU.  
+
+<div style="text-align: right;">
+02/2024-present
+<br/>
+Prof. Aixin Sun
+</div>
+
+
+
+Mainly focus on video understanding.
          
 
 
@@ -61,7 +71,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 990px; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 25px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2202.06649.pdf" target="_blank"><img src="./images/pdf.png" width="200" height="200"></a></td>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 75px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2202.06649.pdf" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">On the Importance of Building High-quality Training Datasets for Neural Code Search</span> 
       <br>Zhensu Sun, <b>Li Li</b>, Yan Liu, Xiaoning Du, Li Li
     <br>ICSE 2022, Nominated for distinguished paper award&nbsp;&nbsp; 
@@ -73,7 +83,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 990px; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 25px; BACKGROUND-COLOR: #e2eff9"><a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3611847" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 75px; BACKGROUND-COLOR: #e2eff9"><a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3611847" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">Biased-Predicate Annotation Identification via Unbiased Visual Predicate Representation</span> 
       <br><b>Li Li</b>*, Chenwei Wang*, You Qin, Wei Ji, Renjie Liang
     <br>ACM MM 2023, Accepted with full marks&nbsp;&nbsp; 
@@ -85,7 +95,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 990px; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 25px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2202.06649.pdf" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 50px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2202.06649.pdf" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">VPGTrans: Transfer Visual Prompt Generator across LLMs</span> 
       <br>Ao Zhang, Hao Fei, Yuan Yao, Wei Ji, <b>Li Li</b>, Zhiyuan Liu, Tat-Seng Chua
     <br>NeurIPS 2023&nbsp;&nbsp; 
@@ -97,7 +107,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 990px; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 25px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2202.06649.pdf" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 100px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2202.06649.pdf" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">VPGTrans: Transfer Visual Prompt Generator across LLMs</span> 
       <br>Ao Zhang, Hao Fei, Yuan Yao, Wei Ji, <b>Li Li</b>, Zhiyuan Liu, Tat-Seng Chua
     <br>NeurIPS 2023&nbsp;&nbsp; 
@@ -186,14 +196,14 @@ ICSE 2022 Distinguished Paper Award Nomination.
 AAAI 2024 Student Scholarship.
 
 # Services
-ACM MM 2024 Program Committee Member.
+Program Committee Member of ACM MM (2024) .
 
-ECCV 2024 Program Committee Member.
+Program Committee Member of ECCV (2024).
 
 # Educations
 
 
-  2022.08 - now
+  2022.08 - 2024.02
 
   Master of Science in Industry 4.0
 
