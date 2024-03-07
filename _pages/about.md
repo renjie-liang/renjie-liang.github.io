@@ -61,16 +61,28 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 680px; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left"><a href="https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/abstract/document/10214041/" target="_blank"><img src="./images/pdf.png" width="25" height="25"><br>pdf</a></td>
+    <td class="left"><a href="https://arxiv.org/pdf/2202.06649.pdf" target="_blank"><img src="./images/pdf.png" width="25" height="25"><br>pdf</a></td>
     <td><span class="title">On the Importance of Building High-quality Training Datasets for Neural Code Search</span> 
-      <br>Zhensu Sun, <span style="border-bottom:2px solid black;">**Li Li**</span>, Yan Liu, Xiaoning Du, Li Li
+      <br>Zhensu Sun, <b>Li Li</b>, Yan Liu, Xiaoning Du, Li Li
     <br>ICSE 2022, Nominated for distinguished paper award&nbsp;&nbsp; 
   </td> 
   </tr>
  </tbody>
 </table>
 
-- **On the Importance of Building High-quality Training Datasets for Neural Code Search**
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 680px; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left"><a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3611847" target="_blank"><img src="./images/pdf.png" width="25" height="25"><br>pdf</a></td>
+    <td><span class="title">Biased-Predicate Annotation Identification via Unbiased Visual Predicate Representation</span> 
+      <br><b>Li Li</b>\*, Chenwei Wang*, You Qin, Wei Ji, Renjie Liang
+    <br>ACM MM 2023, Accepted with full marks&nbsp;&nbsp; 
+  </td> 
+  </tr>
+ </tbody>
+</table>
+
+<!-- - **On the Importance of Building High-quality Training Datasets for Neural Code Search**
 
   Zhensu Sun, <span style="border-bottom:2px solid black;">**Li Li**</span>, Yan Liu, Xiaoning Du, Li Li
 
@@ -80,7 +92,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 
   <span style="border-bottom:2px solid black;">**Li Li**</span>\*, Chenwei Wang*, You Qin, Wei Ji, Renjie Liang
 
-  **ACM MM 2023, Accepted with full marks**
+  **ACM MM 2023, Accepted with full marks** -->
 
 - **Transfer Visual Prompt Generator across LLMs**
 
