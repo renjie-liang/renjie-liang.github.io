@@ -61,7 +61,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 990px; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 25px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2202.06649.pdf" target="_blank"><img src="./images/pdf.png" width="25" height="25"></td>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 25px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2202.06649.pdf" target="_blank"><img src="./images/pdf.png" width="100" height="100"></td>
     <td><span class="title" style="FONT-WEIGHT: bold">On the Importance of Building High-quality Training Datasets for Neural Code Search</span> 
       <br>Zhensu Sun, <b>Li Li</b>, Yan Liu, Xiaoning Du, Li Li
     <br>ICSE 2022, Nominated for distinguished paper award&nbsp;&nbsp; 
@@ -73,7 +73,8 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 990px; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 25px; BACKGROUND-COLOR: #e2eff9"><a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3611847" target="_blank"><img src="./images/pdf.png" width="25" height="25"></td>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 25px; BACKGROUND-COLOR: #e2eff9"><a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3611847" target="_blank"><img src="./images/pdf.png" width="100" height="100">
+    </td>
     <td><span class="title" style="FONT-WEIGHT: bold">Biased-Predicate Annotation Identification via Unbiased Visual Predicate Representation</span> 
       <br><b>Li Li</b>*, Chenwei Wang*, You Qin, Wei Ji, Renjie Liang
     <br>ACM MM 2023, Accepted with full marks&nbsp;&nbsp; 
@@ -81,6 +82,59 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
   </tr>
  </tbody>
 </table>
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 990px; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 25px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2202.06649.pdf" target="_blank"><img src="./images/pdf.png" width="100" height="100">
+    </td>
+    <td><span class="title" style="FONT-WEIGHT: bold">VPGTrans: Transfer Visual Prompt Generator across LLMs</span> 
+      <br>Ao Zhang, Hao Fei, Yuan Yao, Wei Ji, <b>Li Li</b>, Zhiyuan Liu, Tat-Seng Chua
+    <br>NeurIPS 2023&nbsp;&nbsp; 
+  </td> 
+  </tr>
+ </tbody>
+</table>
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 990px; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 25px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2202.06649.pdf" target="_blank"><img src="./images/pdf.png" width="100" height="100">
+    </td>
+    <td><span class="title" style="FONT-WEIGHT: bold">VPGTrans: Transfer Visual Prompt Generator across LLMs</span> 
+      <br>Ao Zhang, Hao Fei, Yuan Yao, Wei Ji, <b>Li Li</b>, Zhiyuan Liu, Tat-Seng Chua
+    <br>NeurIPS 2023&nbsp;&nbsp; 
+  </td> 
+  </tr>
+ </tbody>
+</table>
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 990px; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 25px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2202.06649.pdf" target="_blank"><img src="./images/pdf.png" width="100" height="100">
+    </td>
+    <td><span class="title" style="FONT-WEIGHT: bold">Panoptic Scene Graph Generation with Semantics-prototype Learning</span> 
+      <br><b>Li Li</b>, Wei Ji, Yiming Wu, Mengze Li, You Qin, Lina Wei, Roger Zimmermann
+    <br>AAAI 2024&nbsp;&nbsp; 
+  </td> 
+  </tr>
+ </tbody>
+</table>
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 990px; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 25px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2202.06649.pdf" target="_blank"><img src="./images/pdf.png" width="100" height="100">
+    </td>
+    <td><span class="title" style="FONT-WEIGHT: bold">Domain-wise Invariant Learning for Panoptic Scene Graph Generation</span> 
+      <br><b>Li Li</b>, You Qin, Wei Ji, Yuxiao Zhou, Roger Zimmermann
+    <br>ICASSP 2024&nbsp;&nbsp; 
+  </td> 
+  </tr>
+ </tbody>
+</table>
+
 
 <!-- - **On the Importance of Building High-quality Training Datasets for Neural Code Search**
 
@@ -92,7 +146,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 
   <span style="border-bottom:2px solid black;">**Li Li**</span>\*, Chenwei Wang*, You Qin, Wei Ji, Renjie Liang
 
-  **ACM MM 2023, Accepted with full marks** -->
+  **ACM MM 2023, Accepted with full marks**
 
 - **Transfer Visual Prompt Generator across LLMs**
 
@@ -110,7 +164,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 
   <span style="border-bottom:2px solid black;">**Li Li**</span>, You Qin, Wei Ji, Yuxiao Zhou, Roger Zimmermann
   
-  **ICASSP 2024**
+  **ICASSP 2024** -->
 
 <!-- - **StableSynthNet: Revolutionizing HyperNetworks for Enhanced Multi-modal Model Generalization**
 
