@@ -61,7 +61,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 990px; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 25px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2202.06649.pdf" target="_blank"><img src="./images/pdf.png" width="25" height="25">
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 25px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2202.06649.pdf" target="_blank"><img src="./images/pdf.png" width="25" height="25"></td>
     <td><span class="title" style="FONT-WEIGHT: bold">On the Importance of Building High-quality Training Datasets for Neural Code Search</span> 
       <br>Zhensu Sun, <b>Li Li</b>, Yan Liu, Xiaoning Du, Li Li
     <br>ICSE 2022, Nominated for distinguished paper award&nbsp;&nbsp; 
@@ -73,7 +73,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 990px; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 25px; BACKGROUND-COLOR: #e2eff9"><a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3611847" target="_blank"><img src="./images/pdf.png" width="25" height="25">
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 25px; BACKGROUND-COLOR: #e2eff9"><a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3611847" target="_blank"><img src="./images/pdf.png" width="25" height="25"></td>
     <td><span class="title" style="FONT-WEIGHT: bold">Biased-Predicate Annotation Identification via Unbiased Visual Predicate Representation</span> 
       <br><b>Li Li</b>*, Chenwei Wang*, You Qin, Wei Ji, Renjie Liang
     <br>ACM MM 2023, Accepted with full marks&nbsp;&nbsp; 
