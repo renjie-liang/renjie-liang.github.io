@@ -61,7 +61,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 680px; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left"><a href="https://arxiv.org/pdf/2202.06649.pdf" target="_blank"><img src="./images/pdf.png" width="25" height="25" style="BORDER-LEFT-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px; VERTICAL-ALIGN: middle; BORDER-BOTTOM-WIDTH: 0px; -MS-INTERPOLATION-MODE: bicubic; BORDER-TOP-WIDTH: 0px"><br>pdf</a></td>
+    <td class="left"><a href="https://arxiv.org/pdf/2202.06649.pdf" target="_blank"><img style="BORDER-LEFT-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px; VERTICAL-ALIGN: middle; BORDER-BOTTOM-WIDTH: 0px; -MS-INTERPOLATION-MODE: bicubic; BORDER-TOP-WIDTH: 0px" src="./images/pdf.png" width="25" height="25"><br>pdf</a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">On the Importance of Building High-quality Training Datasets for Neural Code Search</span> 
       <br>Zhensu Sun, <b>Li Li</b>, Yan Liu, Xiaoning Du, Li Li
     <br>ICSE 2022, Nominated for distinguished paper award&nbsp;&nbsp; 
