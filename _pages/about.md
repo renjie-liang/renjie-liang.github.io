@@ -58,6 +58,18 @@ Incoming Research Associate, NTU S-Lab, NTU.
 
 please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL4cAAAAJ&hl=zh-CN) page to check all my publications
 
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/abstract/document/10214041/" target="_blank"><img src="./images/pdf.png" width="25" height="25"><br>pdf</a></td>
+    <td><span class="title">On the Importance of Building High-quality Training Datasets for Neural Code Search</span> 
+      <br>Zhensu Sun, <span style="border-bottom:2px solid black;">**Li Li**</span>, Yan Liu, Xiaoning Du, Li Li
+    <br>ICSE 2022, Nominated for distinguished paper award&nbsp;&nbsp; 
+  </td> 
+  </tr>
+ </tbody>
+</table>
+
 - **On the Importance of Building High-quality Training Datasets for Neural Code Search**
 
   Zhensu Sun, <span style="border-bottom:2px solid black;">**Li Li**</span>, Yan Liu, Xiaoning Du, Li Li
