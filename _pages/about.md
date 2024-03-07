@@ -58,7 +58,7 @@ Incoming Research Associate, NTU S-Lab, NTU.
 
 please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL4cAAAAJ&hl=zh-CN) page to check all my publications
 
-<table MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 680px; BACKGROUND-COLOR: #f6fbfe>
+<!-- <table MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 680px; BACKGROUND-COLOR: #f6fbfe>
   <tbody>
   <tr>
     <td class="left"><a href="https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/abstract/document/10214041/" target="_blank"><img src="./images/pdf.png" width="25" height="25"><br>pdf</a></td>
@@ -68,7 +68,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
   </td> 
   </tr>
  </tbody>
-</table>
+</table> -->
 
 - **On the Importance of Building High-quality Training Datasets for Neural Code Search**
 
