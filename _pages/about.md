@@ -62,7 +62,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
   <tbody>
   <tr>
     <td class="left"><a href="https://arxiv.org/pdf/2202.06649.pdf" target="_blank"><img src="./images/pdf.png" width="25" height="25" style="BORDER-LEFT-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px; VERTICAL-ALIGN: middle; BORDER-BOTTOM-WIDTH: 0px; -MS-INTERPOLATION-MODE: bicubic; BORDER-TOP-WIDTH: 0px"><br>pdf</a></td>
-    <td><span class="title">On the Importance of Building High-quality Training Datasets for Neural Code Search</span> 
+    <td><span class="title" style="FONT-WEIGHT: bold">On the Importance of Building High-quality Training Datasets for Neural Code Search</span> 
       <br>Zhensu Sun, <b>Li Li</b>, Yan Liu, Xiaoning Du, Li Li
     <br>ICSE 2022, Nominated for distinguished paper award&nbsp;&nbsp; 
   </td> 
@@ -74,7 +74,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
   <tbody>
   <tr>
     <td class="left"><a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3611847" target="_blank"><img src="./images/pdf.png" width="25" height="25" style="BORDER-LEFT-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px; VERTICAL-ALIGN: middle; BORDER-BOTTOM-WIDTH: 0px; -MS-INTERPOLATION-MODE: bicubic; BORDER-TOP-WIDTH: 0px"><br>pdf</a></td>
-    <td><span class="title">Biased-Predicate Annotation Identification via Unbiased Visual Predicate Representation</span> 
+    <td><span class="title" style="FONT-WEIGHT: bold">Biased-Predicate Annotation Identification via Unbiased Visual Predicate Representation</span> 
       <br><b>Li Li</b>*, Chenwei Wang*, You Qin, Wei Ji, Renjie Liang
     <br>ACM MM 2023, Accepted with full marks&nbsp;&nbsp; 
   </td> 
