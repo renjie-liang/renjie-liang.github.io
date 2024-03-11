@@ -10,17 +10,17 @@ main:
   #   url: "/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
   - title: "Services"
-  url: "/#-services"
+  url: "/#services"
 
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
