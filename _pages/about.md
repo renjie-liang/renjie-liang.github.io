@@ -61,7 +61,7 @@ Prof. Aixin Sun
 
 
 
-Mainly focus on video understanding.
+Mainly focus on data mining and information retrieval.
          
 
 
