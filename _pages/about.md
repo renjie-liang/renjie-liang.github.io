@@ -130,7 +130,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
  </tbody>
 </table>
 
-<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+<!-- <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://lili0415.github.io" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
@@ -164,7 +164,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
   </td> 
   </tr>
  </tbody>
-</table>
+</table> -->
 
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
