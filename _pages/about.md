@@ -130,6 +130,67 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
  </tbody>
 </table>
 
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://lili0415.github.io" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">Generalized Video Moment Retrieval</span> 
+      <br>Wei Ji, You Qin, Qilong Wu, <b>Li Li</b>, Pengcheng Cai, Lina Wei, Roger Zimmermann
+    <br>Preprint&nbsp;&nbsp; 
+  </td> 
+  </tr>
+ </tbody>
+</table>
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://lili0415.github.io" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">StableSynthNet: Revolutionizing HyperNetworks for Enhanced Multi-modal Model Generalization</span> 
+      <br>Wei Ji*, <b>Li Li</b>*, Zheqi Lv*, Wenqiao Zhang, Yifang Yin, Fei Wu, Roger Zimmermann
+    <br>Preprint&nbsp;&nbsp; 
+  </td> 
+  </tr>
+ </tbody>
+</table>
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://lili0415.github.io" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">Backpropogation-Free Multi-modal On-Device Model Adaptation via Cloud-Device Collaboration</span> 
+      <br>Wei Ji*, <b>Li Li</b>*, Zheqi Lv*, Wenqiao Zhang, Mengze Li, Zhen Wan, Wenqiang Lei, Roger Zimmermann
+    <br>Preprint&nbsp;&nbsp; 
+  </td> 
+  </tr>
+ </tbody>
+</table>
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2309.17205.pdf" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">Towards Complex-query Referring Image Segmentation: A Novel Benchmark</span> 
+      <br>Wei Ji, <b>Li Li</b>, Hao Fei, Xiangyan Liu, Xun Yang, Juncheng Li, Roger Zimmermann
+    <br>Preprint&nbsp;&nbsp; 
+  </td> 
+  </tr>
+ </tbody>
+</table>
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2308.09412.pdf" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">Causal SAR ATR with Limited Data via Dual Invariance</span> 
+      <br>Chenwei Wang, You Qin, <b>Li Li</b>, Siyi Luo, Yulin Huang, Jifang Pei, Yin Zhang, Jianyu Yang
+    <br>Preprint&nbsp;&nbsp; 
+  </td> 
+  </tr>
+ </tbody>
+</table>
+
+
 
 <!-- - **On the Importance of Building High-quality Training Datasets for Neural Code Search**
 
