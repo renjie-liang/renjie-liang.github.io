@@ -109,7 +109,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2307.15567.pdf" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://ojs.aaai.org/index.php/AAAI/article/download/28098/28201" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">Panoptic Scene Graph Generation with Semantics-prototype Learning</span> 
       <br><b>Li Li</b>, Wei Ji, Yiming Wu, Mengze Li, You Qin, Lina Wei, Roger Zimmermann
     <br>AAAI 2024&nbsp;&nbsp; 
@@ -121,7 +121,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2310.05867.pdf" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447193" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">Domain-wise Invariant Learning for Panoptic Scene Graph Generation</span> 
       <br><b>Li Li</b>, You Qin, Wei Ji, Yuxiao Zhou, Roger Zimmermann
     <br>ICASSP 2024&nbsp;&nbsp; 
