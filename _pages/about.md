@@ -287,6 +287,9 @@ Program Committee Member of ICLR AGI Workshop (2024).
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=MtgOD5bYVhrJl1tzX74CbRhUUslEFdbq-StiPxMz5Ts&cl=ffffff&w=a"></script>
 
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=4cjpAQKJfMMGYTm8eMxiyiDv4yxUMhWmdlPMr9dBipc"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=4cjpAQKJfMMGYTm8eMxiyiDv4yxUMhWmdlPMr9dBipc&cl=ffffff&w=a"></script>
+
 <!-- <script>
   var _paq = window._paq = window._paq || [];
   /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
