@@ -267,6 +267,8 @@ Program Committee Member of ECCV (2024).
 
 Program Committee Member of ICLR AGI Workshop (2024).
 
+Student Volunteer at ACM Web Conference (2024).
+
 # Educations
 <span class='anchor' id='educations'></span>
 
