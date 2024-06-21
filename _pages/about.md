@@ -278,12 +278,23 @@ Program Committee Member of ACM MM (2024) .
 
 Program Committee Member of ECCV (2024).
 
+Program Committee Member of ACL ARR (2024).
+
 Program Committee Member of ICLR AGI Workshop (2024).
 
 Student Volunteer at ACM Web Conference (2024).
 
 # Educations
 <span class='anchor' id='educations'></span>
+  Upcoming
+
+  Doctor of Philosophy in Computer Science
+
+  University of Southern California, USA
+
+
+  ---
+
 
   2022.08 - 2024.02
 
