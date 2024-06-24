@@ -288,7 +288,7 @@ Student Volunteer at ACM Web Conference (2024).
 
 # Educations
 <span class='anchor' id='educations'></span>
-  Upcoming
+  Incoming
 
   Doctor of Philosophy in Computer Science
 
