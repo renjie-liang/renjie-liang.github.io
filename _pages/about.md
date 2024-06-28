@@ -23,19 +23,20 @@ My research interests are centered around LLM for code, multimodal understanding
 
 # Work Experiences
 <span class='anchor' id='work-experiences'></span>
-Research Intern, School of Software Engineering, TongJi University.      
+Research Associate, S-Lab, NTU.  
 
 <div style="text-align: right;">
-08/2020-06/2022
+02/2024-present
 <br/>
-Prof. Yan Liu
+Prof. Aixin Sun
 </div>
 
 
 
-Mainly focus on neural code search and neural code completion.
+Mainly focus on data mining and information retrieval.
 
 ---
+
 
 Research Intern, NUS Centre for Extreme Search (NExT++), NUS.  
          
@@ -51,23 +52,23 @@ Mainly focus on multimodal fusion and understanding.
 
 ---
 
-Research Associate, S-Lab, NTU.  
+Research Intern, School of Software Engineering, TongJi University.      
 
 <div style="text-align: right;">
-02/2024-present
+08/2020-06/2022
 <br/>
-Prof. Aixin Sun
+Prof. Yan Liu
 </div>
 
 
 
-Mainly focus on data mining and information retrieval.
+Mainly focus on neural code search and neural code completion.
          
 
 
 # Publications
 <span class='anchor' id='publications'></span>
-please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL4cAAAAJ&hl=zh-CN) page to check all my publications.
+please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL4cAAAAJ&hl=zh-CN) page to check all my publications. (* Equal Contribution)
 
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
