@@ -21,48 +21,27 @@ redirect_from:
 I am Renjie Liang, an incoming PhD student at the University of Florida. I served as a research associate at **Nanyang Technological University**, collaborating with Prof. [Aixin Sun](https://scholar.google.com/citations?user=wyKGVKUAAAAJ&hl=zh-CN). Prior to that, I worked as a research intern under the guidance of Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao) and Post PhD. [Wei Ji](https://jiwei0523.github.io/).
 I completed my Master's degree at **Sun Yat-sen University**, China in 2020, and my Bachelor's degree at **Central South University**, China in 2017. My research interests are centered around information retrieval, multimodal understanding, and AI for healthcare.
 
+
 # Work Experiences
 <span class='anchor' id='work-experiences'></span>
-Research Associate, S-Lab, NTU.  
 
-<div style="text-align: right;">
-02/2024-present
-<br/>
-Prof. Aixin Sun
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+    <span style="margin: 0; font-weight: bold; flex-grow: 1;">2023. April - Present</span>
+    <span style="margin: 0; font-weight: bold; flex-grow: 1; text-align: right;">Research Associate, S-Lab, NTU</span>
 </div>
 
+- Supervised by Prof. [Aixin Sun](https://scholar.google.com/citations?user=wyKGVKUAAAAJ&hl=zh-CN)
+- Proposed a novel task, Ranked Video Moment Retrieval, and curated the TVR-Ranking dataset.
+      
 
-
-Mainly focus on data mining and information retrieval.
-
----
-
-
-Research Intern, NUS Centre for Extreme Search (NExT++), NUS.  
-         
-<div style="text-align: right;">
-06/2022-02/2024
-<br/>
-Prof. Tat-Seng Chua
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <span style="margin: 0; font-weight: bold;">2022. March - 2023. April</span>
+    <span style="text-align: right; font-weight: bold;">Research Intern, NExT++, NUS</span>
 </div>
 
+- Under the guidance of Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao) and Postdoctoral Fellow [Wei Ji](https://jiwei0523.github.io/).
+- Focused on information retrieval for multimodal data.
 
-
-Mainly focus on multimodal fusion and understanding.
-
----
-
-Research Intern, School of Software Engineering, TongJi University.      
-
-<div style="text-align: right;">
-08/2020-06/2022
-<br/>
-Prof. Yan Liu
-</div>
-
-
-
-Mainly focus on neural code search and neural code completion.
          
 
 
