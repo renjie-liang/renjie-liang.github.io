@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Li Li"
-description              : "Li Li's Homepage"
-repository               : "lili0415/lili0415.github.io"
+title                    : "Renjie Liang"
+description              : "Renjie Liang's Homepage"
+repository               : "renjie-liang/renjie.liang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Li Li (黎力)"
-  avatar           : "images/WechatIMG55.jpeg"
+  name             : "Renjie Liang (梁任杰)"
+  avatar           : "images/profile.jpg"
   bio              : "Research Associate at Nanyang Technological University"
   location         : "Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=r4kIL4cAAAAJ&hl"
-  email            : "lili02@u.nus.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=1s5SSfkAAAAJ&h"
+  email            : "liangrj5@gmail.com" 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lili0415"
+  github           : "renjie-liang"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : 
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0003-2007-2706"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
