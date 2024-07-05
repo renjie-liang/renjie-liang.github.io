@@ -93,48 +93,27 @@ please refer to [google scholar](https://scholar.google.com/citations?user=1s5SS
 <span class='anchor' id='services'></span>
 Program Committee Member of ACM MM (2023) .
 
+
 # Educations
 <span class='anchor' id='educations'></span>
-  Incoming
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <span style="margin: 0; font-weight: bold;">Incoming</span>
+    <span style="text-align: right; font-weight: bold;">University of Florida, USA</span>
+</div>
 
-  Doctor of Philosophy in Computer Science
+- Supervised by Prof. [Jie Xu](https://hobi.med.ufl.edu/profile/xu-jie/)
+- Research on AI for healthcare
 
-  University of Southern California, USA
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <span style="margin: 0; font-weight: bold;">2018. September - 2020. June</span>
+    <span style="text-align: right; font-weight: bold;">Sun Yat-sen University, China</span>
+</div>
 
+- Master of Computer Science
 
-  ---
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <span style="margin: 0; font-weight: bold;">2013. September - 2017. June</span>
+    <span style="text-align: right; font-weight: bold;">Central South University, China</span>
+</div>
 
-
-  2022.08 - 2024.02
-
-  Master of Science in Industry 4.0
-
-  National University of Singapore, Singapore
-
-
-  ---
-  
-  2018.08 - 2022.06
-
-  Bachelor of Engineering in Software Engineering
-
-  TongJi University, Shanghai
-
-<!-- <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=MtgOD5bYVhrJl1tzX74CbRhUUslEFdbq-StiPxMz5Ts&cl=ffffff&w=a"></script> -->
-
-
-
-
-<!-- <script>
-  var _paq = window._paq = window._paq || [];
-  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="https://githublili.matomo.cloud/";
-    _paq.push(['setTrackerUrl', u+'matomo.php']);
-    _paq.push(['setSiteId', '1']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.async=true; g.src='https://cdn.matomo.cloud/githublili.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script> -->
+- Bachelor of Mining Engineering
