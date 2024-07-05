@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Renjie Liang \n 梁任杰"
+  name             : "Renjie Liang 梁任杰"
   avatar           : "images/profile.jpg"
   bio              : "Research Associate at Nanyang Technological University"
   location         : "Singapore"
