@@ -22,11 +22,36 @@ I am Renjie Liang, an incoming PhD student at the University of Florida. I serve
 I completed my Master's degree at **Sun Yat-sen University**, China in 2020, and my Bachelor's degree at **Central South University**, China in 2017. My research interests are centered around information retrieval, multimodal understanding, and AI for healthcare.
 
 
+# Educations
+<span class='anchor' id='educations'></span>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+      <span style="margin: 0; font-weight: bold; flex-grow: 1;">2024. AUG - Present</span>
+    <span style="text-align: right; font-weight: bold;">University of Florida, USA</span>
+</div>
+
+- Supervised by Prof. [Jie Xu](https://hobi.med.ufl.edu/profile/xu-jie/)
+- Research on AI for healthcare
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <span style="margin: 0; font-weight: bold;">2018. September - 2020. June</span>
+    <span style="text-align: right; font-weight: bold;">Sun Yat-sen University, China</span>
+</div>
+
+- Master of Computer Science
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <span style="margin: 0; font-weight: bold;">2013. September - 2017. June</span>
+    <span style="text-align: right; font-weight: bold;">Central South University, China</span>
+</div>
+
+- Bachelor of Mining Engineering
+
+
 # Work Experiences
 <span class='anchor' id='work-experiences'></span>
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <span style="margin: 0; font-weight: bold; flex-grow: 1;">2023. April - Present</span>
+    <span style="margin: 0; font-weight: bold; flex-grow: 1;">2023. APR - 2024. AUG</span>
     <span style="margin: 0; font-weight: bold; flex-grow: 1; text-align: right;">Research Associate, S-Lab, NTU</span>
 </div>
 
@@ -109,30 +134,6 @@ please refer to [google scholar](https://scholar.google.com/citations?user=1s5SS
 <span class='anchor' id='services'></span>
 Program Committee Member of ACM MM (2023) .
 
-
-# Educations
-<span class='anchor' id='educations'></span>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <span style="margin: 0; font-weight: bold;">Incoming</span>
-    <span style="text-align: right; font-weight: bold;">University of Florida, USA</span>
-</div>
-
-- Supervised by Prof. [Jie Xu](https://hobi.med.ufl.edu/profile/xu-jie/)
-- Research on AI for healthcare
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <span style="margin: 0; font-weight: bold;">2018. September - 2020. June</span>
-    <span style="text-align: right; font-weight: bold;">Sun Yat-sen University, China</span>
-</div>
-
-- Master of Computer Science
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <span style="margin: 0; font-weight: bold;">2013. September - 2017. June</span>
-    <span style="text-align: right; font-weight: bold;">Central South University, China</span>
-</div>
-
-- Bachelor of Mining Engineering
 
 <br>
 <br>
