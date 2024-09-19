@@ -26,7 +26,7 @@ I completed my Master's degree at **Sun Yat-sen University**, China in 2020, and
 <span class='anchor' id='educations'></span>
 <div style="display: flex; justify-content: space-between; align-items: center;">
       <span style="margin: 0; font-weight: bold; flex-grow: 1;">2024. AUG - Present</span>
-    <span style="text-align: right; font-weight: bold;">University of Florida, USA</span>
+    <span style="text-align: right; font-weight: bold;">Ph.D Student, HOBI, University of Florida, USA</span>
 </div>
 
 - Supervised by Prof. [Jie Xu](https://hobi.med.ufl.edu/profile/xu-jie/)
@@ -34,17 +34,13 @@ I completed my Master's degree at **Sun Yat-sen University**, China in 2020, and
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <span style="margin: 0; font-weight: bold;">2018. September - 2020. June</span>
-    <span style="text-align: right; font-weight: bold;">Sun Yat-sen University, China</span>
+    <span style="text-align: right; font-weight: bold;"> Master, Sun Yat-sen University, China</span>
 </div>
-
-- Master of Computer Science
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <span style="margin: 0; font-weight: bold;">2013. September - 2017. June</span>
-    <span style="text-align: right; font-weight: bold;">Central South University, China</span>
+    <span style="text-align: right; font-weight: bold;"> Bachelor, Central South University, China</span>
 </div>
-
-- Bachelor of Mining Engineering
 
 
 # Work Experiences
