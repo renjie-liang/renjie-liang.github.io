@@ -18,14 +18,14 @@ redirect_from:
 
 # About Me
 <span class='anchor' id='about-me'></span>
-I am Renjie Liang, an incoming PhD student at the University of Florida. I served as a research associate at **Nanyang Technological University**, collaborating with Prof. [Aixin Sun](https://scholar.google.com/citations?user=wyKGVKUAAAAJ&hl=zh-CN). Prior to that, I worked as a research intern under the guidance of Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao) and research fellow. [Wei Ji](https://jiwei0523.github.io/).
+I am Renjie Liang, a Ph. D. student at the University of Florida. I served as a research associate at **Nanyang Technological University**, collaborating with Prof. [Aixin Sun](https://scholar.google.com/citations?user=wyKGVKUAAAAJ&hl=zh-CN). Prior to that, I worked as a research intern under the guidance of Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao) and research fellow. [Wei Ji](https://jiwei0523.github.io/).
 I completed my Master's degree at **Sun Yat-sen University**, China in 2020, and my Bachelor's degree at **Central South University**, China in 2017. My research interests are centered around information retrieval, multimodal understanding, and AI for healthcare.
 
 
 # Educations
 <span class='anchor' id='educations'></span>
 <div style="display: flex; justify-content: space-between; align-items: center;">
-      <span style="margin: 0; font-weight: bold; flex-grow: 1;">2024. AUG - Present</span>
+      <span style="margin: 0; font-weight: bold; flex-grow: 1;">2024. Aug - Present</span>
     <span style="text-align: right; font-weight: bold;">Ph.D Student, HOBI, University of Florida, USA</span>
 </div>
 
@@ -33,12 +33,12 @@ I completed my Master's degree at **Sun Yat-sen University**, China in 2020, and
 - Research on AI for healthcare
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <span style="margin: 0; font-weight: bold;">2018. September - 2020. June</span>
+    <span style="margin: 0; font-weight: bold;">2018. Sep - 2020. Jun</span>
     <span style="text-align: right; font-weight: bold;"> Master, Sun Yat-sen University, China</span>
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <span style="margin: 0; font-weight: bold;">2013. September - 2017. June</span>
+    <span style="margin: 0; font-weight: bold;">2013. Sep - 2017. Jun</span>
     <span style="text-align: right; font-weight: bold;"> Bachelor, Central South University, China</span>
 </div>
 
@@ -47,7 +47,7 @@ I completed my Master's degree at **Sun Yat-sen University**, China in 2020, and
 <span class='anchor' id='work-experiences'></span>
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <span style="margin: 0; font-weight: bold; flex-grow: 1;">2023. APR - 2024. AUG</span>
+    <span style="margin: 0; font-weight: bold; flex-grow: 1;">2023. Apr - 2024. Aug</span>
     <span style="margin: 0; font-weight: bold; flex-grow: 1; text-align: right;">Research Associate, S-Lab, NTU</span>
 </div>
 
@@ -56,7 +56,7 @@ I completed my Master's degree at **Sun Yat-sen University**, China in 2020, and
       
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <span style="margin: 0; font-weight: bold;">2022. March - 2023. April</span>
+    <span style="margin: 0; font-weight: bold;">2022. Mar - 2023. Apr</span>
     <span style="text-align: right; font-weight: bold;">Research Intern, NExT++, NUS</span>
 </div>
 
