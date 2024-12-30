@@ -57,14 +57,13 @@ My goal is to develop amazing models with real-world data to reduce the tedious 
 
 ---
 
-<b> Engineer, Bytedance </b>
+<b>Engineer, Bytedance</b>
 
 <div style="text-align: right;">
     <br/>
-   2020.Oct - 2021. Dec </b>
-<br/>
+    <b>2020. Oct - 2021. Dec</b>
+</div>
 
-  
 
          
 
