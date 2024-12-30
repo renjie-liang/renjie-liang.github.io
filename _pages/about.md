@@ -27,44 +27,39 @@ My goal is to develop amazing models with real-world data to reduce the tedious 
 <span class='anchor' id='work-experiences'></span>
 
 <div>
-  <b>Research Assistant, HOBI, University of Florida</b>
-  <div style="text-align: right;">
-    <b>2024. Aug - Present</b><br>
-    Prof. <a href="https://hobi.med.ufl.edu/profile/xu-jie/" target="_blank">Jie Xu</a>
-  </div>
+  <p><strong>2024. Aug - Present</strong><br>
+  Research Assistant, HOBI, University of Florida<br>
+  Prof. <a href="https://hobi.med.ufl.edu/profile/xu-jie/" target="_blank">Jie Xu</a>
+  </p>
 </div>
 
 <hr>
 
 <div>
-  <b>Research Associate, S-Lab, Nanyang Technological University</b>
-  <div style="text-align: right;">
-    <b>2023. Apr - 2024. Aug</b><br>
-    Prof. <a href="https://scholar.google.com/citations?user=wyKGVKUAAAAJ&hl=zh-CN" target="_blank">Aixin Sun</a>
-  </div>
+  <p><strong>2023. Apr - 2024. Aug</strong><br>
+  Research Associate, S-Lab, Nanyang Technological University<br>
+  Prof. <a href="https://scholar.google.com/citations?user=wyKGVKUAAAAJ&hl=zh-CN" target="_blank">Aixin Sun</a>
+  </p>
 </div>
 
 <hr>
 
 <div>
-  <b>Research Intern, NExT++, National University of Singapore</b>
-  <div style="text-align: right;">
-    <b>2022. Mar - 2023. Apr</b><br>
-    Prof. <a href="https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao" target="_blank">Tat-Seng Chua</a>
-    and Postdoc <a href="https://jiwei0523.github.io/" target="_blank">Wei Ji</a>
-  </div>
+  <p><strong>2022. Mar - 2023. Apr</strong><br>
+  Research Intern, NExT++, National University of Singapore<br>
+  Prof. <a href="https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao" target="_blank">Tat-Seng Chua</a> 
+  and Postdoc <a href="https://jiwei0523.github.io/" target="_blank">Wei Ji</a>
+  </p>
 </div>
 
 <hr>
 
 <div>
-  <b>Engineer, Bytedance</b>
-  <div style="text-align: right;">
-    <b>2020. Oct - 2021. Dec</b>
-  </div>
+  <p><strong>2020. Oct - 2021. Dec</strong><br>
+  Engineer, Bytedance
+  </p>
 </div>
 
-<hr>
 
 # Education
 <span class='anchor' id='educations'></span>
