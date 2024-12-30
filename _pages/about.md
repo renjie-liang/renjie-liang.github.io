@@ -18,19 +18,58 @@ redirect_from:
 
 # About Me
 <span class='anchor' id='about-me'></span>
-I am Renjie Liang, a Ph. D. student at the University of Florida. I served as a research associate at **Nanyang Technological University**, collaborating with Prof. [Aixin Sun](https://scholar.google.com/citations?user=wyKGVKUAAAAJ&hl=zh-CN). Prior to that, I worked as a research intern under the guidance of Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao) and research fellow. [Wei Ji](https://jiwei0523.github.io/).
+I am Renjie Liang, a Ph.D. student at the University of Florida (UF), where I serve as a research assistant in the Health Outcomes & Biomedical Informatics (HOBI) department. My research interests focus on medical image report generation using Large Language Models (LLMs), particularly for 3D CT renal images. In addition, I am exploring out-of-distribution detection and improving efficiency in radiology image for report generation.
+My goal is to develop amazing models with real-world data to reduce the tedious workload for medical scripting and improve its quality. Eventually, I hope to contribute to the advancement of medical report generation and improve healthcare outcomes for humanity.
+
+<!--
+**Nanyang Technological University**, collaborating with Prof. [Aixin Sun](https://scholar.google.com/citations?user=wyKGVKUAAAAJ&hl=zh-CN). Prior to that, I worked as a research intern under the guidance of Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao) and research fellow. [Wei Ji](https://jiwei0523.github.io/).
 I completed my Master's degree at **Sun Yat-sen University**, China in 2020, and my Bachelor's degree at **Central South University**, China in 2017. My research interests are centered around information retrieval, multimodal understanding, and AI for healthcare.
+-->
 
 
+
+# Work Experiences
+<span class='anchor' id='work-experiences'></span>
+<b>Research Assistant, HOBI, University of Florida </b>
+
+<div style="text-align: right;">
+<b>  2024. Aug - Present </b>
+<br/>
+Prof. [Jie Xu](https://hobi.med.ufl.edu/profile/xu-jie/)
+</div>
+
+
+# Work Experiences
+<span class='anchor' id='work-experiences'></span>
+
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+    <span style="margin: 0; font-weight: bold; flex-grow: 1;">2023. Apr - 2024. Aug</span>
+    <span style="margin: 0; font-weight: bold; flex-grow: 1; text-align: right;">Research Associate, S-Lab, NTU</span>
+</div>
+
+- Supervised by Prof. [Aixin Sun](https://scholar.google.com/citations?user=wyKGVKUAAAAJ&hl=zh-CN)
+- Proposed a novel task, Ranked Video Moment Retrieval, and curated the TVR-Ranking dataset.
+      
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <span style="margin: 0; font-weight: bold;">2022. Mar - 2023. Apr</span>
+    <span style="text-align: right; font-weight: bold;">Research Intern, NExT++, NUS</span>
+</div>
+
+- Under the guidance of Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao) and Postdoctoral Fellow [Wei Ji](https://jiwei0523.github.io/).
+- Focused on information retrieval for multimodal data.
+
+         
 
 
 # Educations
 <span class='anchor' id='educations'></span>
+
   2024. Aug - Present
 
   Doctor of Philosophy in Biomedical Informatics
 
-  University of Southern California, USA
+  University of Florida, USA
 
   ---
   
@@ -50,11 +89,6 @@ I completed my Master's degree at **Sun Yat-sen University**, China in 2020, and
 <!--
 # Educations
 
-<span class='anchor' id='educations'></span>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-      <span style="margin: 0; font-weight: bold; flex-grow: 1;">2024. Aug - Present</span>
-    <span style="text-align: right; font-weight: bold;">Ph.D Student, HOBI, University of Florida, USA</span>
-</div>
 
 - Supervised by Prof. [Jie Xu](https://hobi.med.ufl.edu/profile/xu-jie/)
 - Research on AI for healthcare
