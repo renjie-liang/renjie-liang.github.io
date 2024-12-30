@@ -22,11 +22,6 @@ redirect_from:
 I am Renjie Liang, a Ph.D. student at the University of Florida (UF), where I serve as a research assistant in the Health Outcomes & Biomedical Informatics (HOBI) department. My research interests focus on medical image report generation using Large Language Models (LLMs), particularly for 3D CT renal images. In addition, I am exploring out-of-distribution detection and improving efficiency in radiology image for report generation.
 My goal is to develop amazing models with real-world data to reduce the tedious workload for medical scripting and improve its quality. Eventually, I hope to contribute to the advancement of medical report generation and improve healthcare outcomes for humanity.
 
-<!--
-**Nanyang Technological University**, collaborating with Prof. [Aixin Sun](https://scholar.google.com/citations?user=wyKGVKUAAAAJ&hl=zh-CN). Prior to that, I worked as a research intern under the guidance of Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao) and research fellow. [Wei Ji](https://jiwei0523.github.io/).
-I completed my Master's degree at **Sun Yat-sen University**, China in 2020, and my Bachelor's degree at **Central South University**, China in 2017. My research interests are centered around information retrieval, multimodal understanding, and AI for healthcare.
--->
-
 
 
 # Work Experiences
@@ -56,7 +51,7 @@ I completed my Master's degree at **Sun Yat-sen University**, China in 2020, and
     <b>2022. Mar - 2023. Apr</b>
     <br/>
     Prof. <a href="https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao" target="_blank">Tat-Seng Chua</a>
-    and Postdoctoral Fellow <a href="https://jiwei0523.github.io/" target="_blank">Wei Ji</a>
+    and Postdoc <a href="https://jiwei0523.github.io/" target="_blank">Wei Ji</a>
 </div>
 
 
@@ -73,31 +68,31 @@ I completed my Master's degree at **Sun Yat-sen University**, China in 2020, and
 
          
 
-
-# Educations
+<h2>Education</h2>
 <span class='anchor' id='educations'></span>
 
-  2024. Aug - Present
+<div>
+  <p><strong>2024. Aug - Present</strong><br>
+  <strong>Doctor of Philosophy in Biomedical Informatics</strong><br>
+  University of Florida, USA</p>
+</div>
 
-  Doctor of Philosophy in Biomedical Informatics
+<hr>
 
-  University of Florida, USA
+<div>
+  <p><strong>2018. Sep - 2020. Jun</strong><br>
+  <strong>Master of Engineering in Computer Science</strong><br>
+  Sun Yat-sen University, China</p>
+</div>
 
-  ---
-  
-  2018. Sep - 2020. Jun
-        
-  Master of Engineering in Computer Science
+<hr>
 
-  Sun Yat-sen University, China
+<div>
+  <p><strong>2013. Sep - 2017. Jun</strong><br>
+  <strong>Bachelor of Engineering in Mining Engineering</strong><br>
+  Central South University, China</p>
+</div>
 
-  --- 
-
-  2013. Sep - 2017. Jun
-
-  Bachelor of Engineering in Mining Engineering
-        
-  Central South University, China
 
   
 <!--
