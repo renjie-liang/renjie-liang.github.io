@@ -18,6 +18,7 @@ redirect_from:
 
 # About Me
 <span class='anchor' id='about-me'></span>
+
 I am Renjie Liang, a Ph.D. student at the University of Florida (UF), where I serve as a research assistant in the Health Outcomes & Biomedical Informatics (HOBI) department. My research interests focus on medical image report generation using Large Language Models (LLMs), particularly for 3D CT renal images. In addition, I am exploring out-of-distribution detection and improving efficiency in radiology image for report generation.
 My goal is to develop amazing models with real-world data to reduce the tedious workload for medical scripting and improve its quality. Eventually, I hope to contribute to the advancement of medical report generation and improve healthcare outcomes for humanity.
 
@@ -29,13 +30,16 @@ I completed my Master's degree at **Sun Yat-sen University**, China in 2020, and
 
 
 # Work Experiences
+
 <span class='anchor' id='work-experiences'></span>
 <b>Research Assistant, HOBI, University of Florida </b>
 
 <div style="text-align: right;">
 <b>  2024. Aug - Present </b>
 <br/>
+  
 Prof. [Jie Xu](https://hobi.med.ufl.edu/profile/xu-jie/)
+
 </div>
 
 --- 
@@ -44,7 +48,9 @@ Prof. [Jie Xu](https://hobi.med.ufl.edu/profile/xu-jie/)
 <div style="text-align: right;">
 <b>  2023. Apr - 2024. Aug </b>
 <br/>
+  
 Prof. [Aixin Sun](https://scholar.google.com/citations?user=wyKGVKUAAAAJ&hl=zh-CN)
+
 </div>
 
 --- 
@@ -53,10 +59,13 @@ Prof. [Aixin Sun](https://scholar.google.com/citations?user=wyKGVKUAAAAJ&hl=zh-C
 <div style="text-align: right;">
 <b>  2022. Mar - 2023. Apr </b>
 <br/>
+  
 Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao) and Postdoctoral Fellow [Wei Ji](https://jiwei0523.github.io/)
+  
 </div>
 
 ---
+
 <b> Engineer, Bytedance </b>
 
 <div style="text-align: right;">
@@ -64,16 +73,6 @@ Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=
 <br/>
 
   
-<!--
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <span style="margin: 0; font-weight: bold;">2022. Mar - 2023. Apr</span>
-    <span style="text-align: right; font-weight: bold;">Research Intern, NExT++, NUS</span>
-</div>
-
-- Under the guidance of Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao) and Postdoctoral Fellow [Wei Ji](https://jiwei0523.github.io/).
-- Focused on information retrieval for multimodal data.
--->
 
          
 
@@ -102,6 +101,8 @@ Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=
   Bachelor of Engineering in Mining Engineering
         
   Central South University, China
+
+  
 <!--
 # Educations
 
@@ -115,7 +116,6 @@ Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=
     <span style="margin: 0; font-weight: bold;"></span>
     <span style="text-align: right; font-weight: bold;"> </span>
 </div>
--->
 
 
 # Work Experiences
@@ -138,6 +138,7 @@ Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=
 - Under the guidance of Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao) and Postdoctoral Fellow [Wei Ji](https://jiwei0523.github.io/).
 - Focused on information retrieval for multimodal data.
 
+-->
          
 
 # Publications
