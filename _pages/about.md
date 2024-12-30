@@ -22,7 +22,34 @@ I am Renjie Liang, a Ph. D. student at the University of Florida. I served as a 
 I completed my Master's degree at **Sun Yat-sen University**, China in 2020, and my Bachelor's degree at **Central South University**, China in 2017. My research interests are centered around information retrieval, multimodal understanding, and AI for healthcare.
 
 
+
+
 # Educations
+<span class='anchor' id='educations'></span>
+  2024. Aug - Present
+
+  Doctor of Philosophy in Biomedical Informatics
+
+  University of Southern California, USA
+
+  ---
+  
+  2018. Sep - 2020. Jun
+        
+  Master of Engineering in Computer Science
+
+  Sun Yat-sen University, China
+
+  --- 
+
+  2013. Sep - 2017. Jun
+
+  Bachelor of Engineering in Mining Engineering
+        
+  Central South University, China
+<!--
+# Educations
+
 <span class='anchor' id='educations'></span>
 <div style="display: flex; justify-content: space-between; align-items: center;">
       <span style="margin: 0; font-weight: bold; flex-grow: 1;">2024. Aug - Present</span>
@@ -32,15 +59,13 @@ I completed my Master's degree at **Sun Yat-sen University**, China in 2020, and
 - Supervised by Prof. [Jie Xu](https://hobi.med.ufl.edu/profile/xu-jie/)
 - Research on AI for healthcare
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <span style="margin: 0; font-weight: bold;">2018. Sep - 2020. Jun</span>
-    <span style="text-align: right; font-weight: bold;"> Master, Sun Yat-sen University, China</span>
-</div>
+
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <span style="margin: 0; font-weight: bold;">2013. Sep - 2017. Jun</span>
-    <span style="text-align: right; font-weight: bold;"> Bachelor, Central South University, China</span>
+    <span style="margin: 0; font-weight: bold;"></span>
+    <span style="text-align: right; font-weight: bold;"> </span>
 </div>
+-->
 
 
 # Work Experiences
@@ -123,8 +148,9 @@ please refer to [google scholar](https://scholar.google.com/citations?user=1s5SS
 </table>
 
 
-
+<!--
 # Honors and Awards
+-->
 
 # Services
 <span class='anchor' id='services'></span>
