@@ -67,7 +67,7 @@ My goal is to develop amazing models with real-world data to reduce the tedious 
 
          
 
-<h2>Education</h2>
+# Education
 <span class='anchor' id='educations'></span>
 
 <div>
