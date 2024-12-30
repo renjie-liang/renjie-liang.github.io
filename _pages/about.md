@@ -38,18 +38,35 @@ I completed my Master's degree at **Sun Yat-sen University**, China in 2020, and
 Prof. [Jie Xu](https://hobi.med.ufl.edu/profile/xu-jie/)
 </div>
 
+--- 
+<b> Research Associate, S-Lab, Nanyang Technological University </b>
 
-# Work Experiences
-<span class='anchor' id='work-experiences'></span>
-
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <span style="margin: 0; font-weight: bold; flex-grow: 1;">2023. Apr - 2024. Aug</span>
-    <span style="margin: 0; font-weight: bold; flex-grow: 1; text-align: right;">Research Associate, S-Lab, NTU</span>
+<div style="text-align: right;">
+<b>  2023. Apr - 2024. Aug </b>
+<br/>
+Prof. [Aixin Sun](https://scholar.google.com/citations?user=wyKGVKUAAAAJ&hl=zh-CN)
 </div>
 
-- Supervised by Prof. [Aixin Sun](https://scholar.google.com/citations?user=wyKGVKUAAAAJ&hl=zh-CN)
-- Proposed a novel task, Ranked Video Moment Retrieval, and curated the TVR-Ranking dataset.
-      
+--- 
+
+
+<b> Research Intern, NExT++, National University of Singapore </b>
+
+<div style="text-align: right;">
+<b>  2022. Mar - 2023. Apr </b>
+<br/>
+Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao) and Postdoctoral Fellow [Wei Ji](https://jiwei0523.github.io/)
+</div>
+
+
+<b> Enginner, Bitedyte, National University of Singapore </b>
+
+<div style="text-align: right;">
+<b>  2020.Oct - 2021. Dec </b>
+<br/>
+
+  
+<!--
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <span style="margin: 0; font-weight: bold;">2022. Mar - 2023. Apr</span>
@@ -58,6 +75,7 @@ Prof. [Jie Xu](https://hobi.med.ufl.edu/profile/xu-jie/)
 
 - Under the guidance of Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao) and Postdoctoral Fellow [Wei Ji](https://jiwei0523.github.io/).
 - Focused on information retrieval for multimodal data.
+-->
 
          
 
