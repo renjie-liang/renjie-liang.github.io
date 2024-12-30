@@ -72,7 +72,7 @@ My goal is to develop amazing models with real-world data to reduce the tedious 
 
 <div>
   <p><strong>2024. Aug - Present</strong><br>
-  <strong>Doctor of Philosophy in Biomedical Informatics</strong><br>
+  Doctor of Philosophy in Biomedical Informatics<br>
   University of Florida, USA</p>
 </div>
 
@@ -80,7 +80,7 @@ My goal is to develop amazing models with real-world data to reduce the tedious 
 
 <div>
   <p><strong>2018. Sep - 2020. Jun</strong><br>
-  <strong>Master of Engineering in Computer Science</strong><br>
+  Master of Engineering in Computer Science<br>
   Sun Yat-sen University, China</p>
 </div>
 
@@ -88,7 +88,7 @@ My goal is to develop amazing models with real-world data to reduce the tedious 
 
 <div>
   <p><strong>2013. Sep - 2017. Jun</strong><br>
-  <strong>Bachelor of Engineering in Mining Engineering</strong><br>
+  Bachelor of Engineering in Mining Engineering<br>
   Central South University, China</p>
 </div>
 
