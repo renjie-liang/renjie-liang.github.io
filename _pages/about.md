@@ -135,10 +135,10 @@ please refer to [google scholar](https://scholar.google.com/citations?user=1s5SS
   <tbody>
   <tr>
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2407.06597" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">TVR-Ranking: A Dataset for Ranked Video Moment Retrieval with  Imprecise  Queries</span> 
+    <td><span class="title" style="FONT-WEIGHT: bold">TVR-Ranking: A Dataset for Ranked Video Moment Retrieval with  Imprecise  Queries</span>
       <br> <b>Renjie Liang</b>, Li Li, Chongzhi Zhang, Jing Wang, Xizhou Zhu, Aixin Sun
-    <br>Preprint&nbsp;&nbsp; 
-  </td> 
+    <br>ACM SIGIR-AP 2025&nbsp;&nbsp;
+  </td>
   </tr>
  </tbody>
 </table>
