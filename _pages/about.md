@@ -33,11 +33,18 @@ redirect_from:
   border-radius: 8px;
   margin: 0 0 28px 0;
   box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+  text-decoration: none;
   animation: bannerPop 1.8s ease-in-out infinite;
+}
+.open-banner:hover {
+  color: #ffffff;
+  background: linear-gradient(90deg, #0d47a1, #1e88e5);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
+  text-decoration: none;
 }
 </style>
 
-<div class="open-banner">🚀 Open for Internship Opportunities and Collaboration</div>
+<a class="open-banner" href="mailto:liangrj5@gmail.com?subject=Internship%2FCollaboration%20Opportunity">🚀 Open for Internship Opportunities and Collaboration</a>
 
 
 # About Me
