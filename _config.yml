@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Renjie Liang"
 description              : "Renjie Liang's Homepage"
-repository               : "renjie-liang/renjie.liang.github.io"
+repository               : "renjie-liang/renjie-liang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -44,7 +44,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : "liang-renjie-17600a26b"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : 
   pinterest        :
