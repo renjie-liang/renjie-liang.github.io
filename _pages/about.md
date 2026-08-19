@@ -16,6 +16,30 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
+<style>
+@keyframes bannerPop {
+  0%   { transform: scale(1); }
+  50%  { transform: scale(1.03); }
+  100% { transform: scale(1); }
+}
+.open-banner {
+  display: block;
+  background: linear-gradient(90deg, #1565c0, #42a5f5);
+  color: #ffffff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 12px 18px;
+  border-radius: 8px;
+  margin: 0 0 28px 0;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+  animation: bannerPop 1.8s ease-in-out infinite;
+}
+</style>
+
+<div class="open-banner">🚀 Open for Internship Opportunities and Collaboration</div>
+
+
 # About Me
 <span class='anchor' id='about-me'></span>
 
@@ -129,6 +153,71 @@ My goal is to develop amazing models with real-world data to reduce the tedious 
 # Publications
 <span class='anchor' id='publications'></span>
 please refer to [google scholar](https://scholar.google.com/citations?user=1s5SSfkAAAAJ&hl) page to check all my publications. (* Equal Contribution)
+
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2603.15822" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">Beyond the Embedding Bottleneck: Adaptive Retrieval-Augmented 3D CT Report Generation</span>
+      <br> <b>Renjie Liang</b>, Yiling Ma, Yang Xing, Zhengkang Fan, Jinqian Pan, Chengkun Sun, Li Li, Kuang Gong, Jie Xu
+    <br>ECCV 2026&nbsp;&nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2608.00345" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">ORCA: ORgan-Centroid Aggregation for Training-Free 3D CT Visual Token Compression</span>
+      <br> <b>Renjie Liang</b>, Zijian Xu, Jinqian Pan, Chengkun Sun, Zhengkang Fan, Shawn Li, You Qin, Mei Liu, Jie Xu
+    <br>Preprint&nbsp;&nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2607.22771" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">When Do Cheap Probes Predict Expensive Training? Probing 3D-CT Encoders for Text Generation</span>
+      <br> <b>Renjie Liang</b>, Zijian Xu
+    <br>Preprint&nbsp;&nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2606.04365" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">Multi-Granularity 3D Kidney Lesion Characterization from CT Volumes</span>
+      <br> <b>Renjie Liang</b>, Zhengkang Fan, Jinqian Pan, Chenkun Sun, Jiang Bian, Russell Terry, Jie Xu
+    <br>Preprint&nbsp;&nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6890898" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">A Clinically Informed Two-Stage Framework for Renal CT Report Generation</span>
+      <br> <b>Renjie Liang</b>, Zhengkang Fan, Jinqian Pan, Chengkun Sun, Bruce Daniel Steinberg, Jiang Bian, Russell Terry, Jie Xu
+    <br>Preprint&nbsp;&nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
 
 
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
