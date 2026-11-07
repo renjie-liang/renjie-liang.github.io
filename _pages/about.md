@@ -50,7 +50,7 @@ redirect_from:
 # About Me
 <span class='anchor' id='about-me'></span>
 
-I am Renjie Liang, a Ph.D. student at the University of Florida (UF), where I serve as a research assistant in the Health Outcomes & Biomedical Informatics (HOBI) department. My research interests focus on medical image report generation using Large Language Models (LLMs), particularly for 3D CT renal images. In addition, I am exploring out-of-distribution detection and improving efficiency in radiology image for report generation.
+I am Renjie Liang, a Ph.D. student at the University of Florida (UF), where I serve as a research assistant in the Health Outcomes & Biomedical Informatics (HOBI) department. My research interests focus on medical image report generation using Large Language Models (LLMs), particularly for 3D CT images. My recent work includes compressing 3D CT visual tokens (ORCA), forecasting encoder performance with a lightweight probe (CheapCT), retrieval-augmented report generation (AdaRAG-CT), contrastive decoding that makes a report generator state what it has detected (SelfCue), and an agent with a learnable rule memory that revises each section of a generated report.
 My goal is to develop amazing models with real-world data to reduce the tedious workload for medical scripting and improve its quality. Eventually, I hope to contribute to the advancement of medical report generation and improve healthcare outcomes for humanity.
 
 
@@ -62,10 +62,10 @@ please refer to [google scholar](https://scholar.google.com/citations?user=1s5SS
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2603.15822" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">Beyond the Embedding Bottleneck: Adaptive Retrieval-Augmented 3D CT Report Generation</span>
-      <br> <b>Renjie Liang</b>, Yiling Ma, Yang Xing, Zhengkang Fan, Jinqian Pan, Chengkun Sun, Li Li, Kuang Gong, Jie Xu
-    <br>ECCV 2026&nbsp;&nbsp;
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2609.31788" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">SelfCue: Making a 3D CT Report Generator Say What It Already Knows</span>
+      <br> <b>Renjie Liang</b>, Yang Yang, Jinqian Pan, Zhengkang Fan, Chengkun Sun, Jie Xu
+    <br>arXiv 2026&nbsp;&nbsp;
   </td>
   </tr>
  </tbody>
@@ -78,7 +78,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=1s5SS
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2608.00345" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">ORCA: ORgan-Centroid Aggregation for Training-Free 3D CT Visual Token Compression</span>
       <br> <b>Renjie Liang</b>, Zijian Xu, Jinqian Pan, Chengkun Sun, Zhengkang Fan, Shawn Li, You Qin, Mei Liu, Jie Xu
-    <br>Preprint&nbsp;&nbsp;
+    <br>arXiv 2026&nbsp;&nbsp;
   </td>
   </tr>
  </tbody>
@@ -90,8 +90,8 @@ please refer to [google scholar](https://scholar.google.com/citations?user=1s5SS
   <tr>
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2607.22771" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">When Do Cheap Probes Predict Expensive Training? Probing 3D-CT Encoders for Text Generation</span>
-      <br> <b>Renjie Liang</b>, Zijian Xu
-    <br>Preprint&nbsp;&nbsp;
+      <br> <b>Renjie Liang</b>, Zijian Xu, Jinqian Pan, Chengkun Sun, Zhengkang Fan, Shawn Li, You Qin, Mei Liu, Jie Xu
+    <br>arXiv 2026&nbsp;&nbsp;
   </td>
   </tr>
  </tbody>
@@ -104,7 +104,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=1s5SS
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2606.04365" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">Multi-Granularity 3D Kidney Lesion Characterization from CT Volumes</span>
       <br> <b>Renjie Liang</b>, Zhengkang Fan, Jinqian Pan, Chenkun Sun, Jiang Bian, Russell Terry, Jie Xu
-    <br>Preprint&nbsp;&nbsp;
+    <br>arXiv 2026, submitted to Medical Image Analysis&nbsp;&nbsp;
   </td>
   </tr>
  </tbody>
@@ -114,10 +114,10 @@ please refer to [google scholar](https://scholar.google.com/citations?user=1s5SS
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6890898" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">A Clinically Informed Two-Stage Framework for Renal CT Report Generation</span>
-      <br> <b>Renjie Liang</b>, Zhengkang Fan, Jinqian Pan, Chengkun Sun, Bruce Daniel Steinberg, Jiang Bian, Russell Terry, Jie Xu
-    <br>Preprint&nbsp;&nbsp;
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2603.15822" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">Beyond the Embedding Bottleneck: Adaptive Retrieval-Augmented 3D CT Report Generation</span>
+      <br> <b>Renjie Liang</b>, Yiling Ma, Yang Xing, Zhengkang Fan, Jinqian Pan, Chengkun Sun, Li Li, Kuang Gong, Jie Xu
+    <br>arXiv 2026&nbsp;&nbsp;
   </td>
   </tr>
  </tbody>
@@ -140,15 +140,40 @@ please refer to [google scholar](https://scholar.google.com/citations?user=1s5SS
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2308.03725.pdf" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">Efficient Temporal Sentence Grounding in Videos with Multi-Teacher Knowledge Distillation</span> 
-      <br> <b> Renjie Liang </b>, Yiming Yang, Hui Lu, Li Li
-    <br>Preprint&nbsp;&nbsp; 
-  </td> 
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2503.06166" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">Secure On-Device Video OOD Detection Without Backpropagation</span>
+      <br> Shawn Li, Peilin Cai, Yuxiao Zhou, Zhiyu Ni, <b>Renjie Liang</b>, You Qin, Yi Nian, Zhengzhong Tu, Xiyang Hu, Yue Zhao
+    <br>ICCV 2025&nbsp;&nbsp;
+  </td>
   </tr>
  </tbody>
 </table>
 
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2506.23584" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">A Clinically-Grounded Two-Stage Framework for Renal CT Report Generation</span>
+      <br> <b>Renjie Liang</b>, Zhengkang Fan, Jinqian Pan, Chenkun Sun, Bruce Daniel Steinberg, Russell Terry, Jie Xu
+    <br>arXiv 2025&nbsp;&nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2308.03725.pdf" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">Efficient Temporal Sentence Grounding in Videos with Multi-Teacher Knowledge Distillation</span> 
+      <br> <b> Renjie Liang </b>, Yiming Yang, Hui Lu, Li Li
+    <br>arXiv 2023&nbsp;&nbsp; 
+  </td> 
+  </tr>
+ </tbody>
+</table>
 
 
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
@@ -199,7 +224,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=1s5SS
 <hr>
 
 <div>
-  <p><strong>2022. Mar - 2023. Apr</strong><br>
+  <p><strong>2022. Feb - 2023. Apr</strong><br>
   Research Intern, NExT++, National University of Singapore<br>
   Prof. <a href="https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao" target="_blank">Tat-Seng Chua</a> 
   and Postdoc <a href="https://jiwei0523.github.io/" target="_blank">Wei Ji</a>
